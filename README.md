@@ -1,1 +1,1 @@
-Video summarizer u don't need the pywidgets and dotenv that was jus experiment
+Youtube video summarizer u don't need the pywidgets and dotenv that was jus experiment
